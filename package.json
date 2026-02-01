@@ -1,0 +1,8 @@
+{
+  "name": "on-chain-voting-dao",
+  "version": "1.0.0",
+  "description": "Simple Token-Weighted Governance DAO",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
